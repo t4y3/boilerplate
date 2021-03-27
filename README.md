@@ -24,6 +24,5 @@ npx standard-version --first-release
 ```shell
 npm run build
 npm run release
-npm publish
-git push --follow-tags origin main
+git push --follow-tags origin main && npm publish
 ```
