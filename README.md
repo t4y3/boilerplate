@@ -19,3 +19,11 @@ https://github.com/conventional-changelog/standard-version#first-release
 ```shell
 npx standard-version --first-release
 ```
+
+## Release
+```shell
+npm run build
+npm run release
+npm publish
+git push --follow-tags origin main
+```
