@@ -2,7 +2,7 @@
   "name": "@t4y3/libraries-boilerplate",
   "version": "0.0.1",
   "description": "Boilerplate with TypeScript, linter, formatter, and Semantic Versioning",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "hooks": "npx simple-git-hooks",
     "build": "rm -rf lib && rollup -c && npm run types",
@@ -53,5 +53,8 @@
     "simple-git-hooks": "^2.2.0",
     "standard-version": "^9.1.1",
     "typescript": "^4.2.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
