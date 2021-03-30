@@ -7,22 +7,8 @@ Boilerplate with TypeScript, linter, formatter, and Semantic Versioning
 npx degit git@github.com:t4y3/libraries-boilerplate.git#main new-project
 ```
 
-
 ## Initial Setup
 
 ```shell
 npm run hooks
-```
-
-## First Release
-https://github.com/conventional-changelog/standard-version#first-release
-```shell
-npx standard-version --first-release
-```
-
-## Release
-```shell
-npm run build
-npm run release
-git push --follow-tags origin main && npm publish
 ```
