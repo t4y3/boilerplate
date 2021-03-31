@@ -1,3 +1,10 @@
+## [0.0.8](https://github.com/t4y3/libraries-boilerplate/compare/v0.0.7...v0.0.8) (2021-03-31)
+
+
+### Bug Fixes
+
+* github plugin ([b581766](https://github.com/t4y3/libraries-boilerplate/commit/b58176665660b2377b3eda2bdb1c5ccf5e9b5f02))
+
 ## [0.0.7](https://github.com/t4y3/libraries-boilerplate/compare/v0.0.6...v0.0.7) (2021-03-31)
 
 
