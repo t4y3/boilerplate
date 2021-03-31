@@ -1,3 +1,10 @@
+## [0.0.7](https://github.com/t4y3/libraries-boilerplate/compare/v0.0.6...v0.0.7) (2021-03-31)
+
+
+### Bug Fixes
+
+* release setting ([b57d034](https://github.com/t4y3/libraries-boilerplate/commit/b57d03486373ba06aa451404f4713a4e150bc309))
+
 # Changelog
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
