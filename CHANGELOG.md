@@ -1,3 +1,10 @@
+## [0.0.10](https://github.com/t4y3/libraries-boilerplate/compare/v0.0.9...v0.0.10) (2021-04-01)
+
+
+### Bug Fixes
+
+* npm script ([5d77478](https://github.com/t4y3/libraries-boilerplate/commit/5d7747870bee39dffe8f7e1c871ff31beb3dd015))
+
 ## [0.0.9](https://github.com/t4y3/libraries-boilerplate/compare/v0.0.8...v0.0.9) (2021-04-01)
 
 
