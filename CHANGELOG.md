@@ -1,3 +1,10 @@
+## [0.0.9](https://github.com/t4y3/libraries-boilerplate/compare/v0.0.8...v0.0.9) (2021-04-01)
+
+
+### Bug Fixes
+
+* package.json ([944147b](https://github.com/t4y3/libraries-boilerplate/commit/944147babc0bd6c1b87a4fe8b2dc4fa08418cfdb))
+
 ## [0.0.8](https://github.com/t4y3/libraries-boilerplate/compare/v0.0.7...v0.0.8) (2021-03-31)
 
 
