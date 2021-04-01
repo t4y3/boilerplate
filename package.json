@@ -3,6 +3,9 @@
   "version": "0.0.8",
   "description": "Boilerplate with TypeScript, linter, formatter, and Semantic Versioning",
   "main": "lib/index.js",
+  "module": "lib/index.esm.js",
+  "unpkg": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "hooks": "npx simple-git-hooks",
     "build": "rm -rf lib && rollup -c && npm run types",
@@ -12,6 +15,11 @@
     "lint": "eslint src",
     "release": "semantic-release"
   },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "lib"
+  ],
   "lint-staged": {
     "src/**/*.{js,ts}": [
       "eslint src",
