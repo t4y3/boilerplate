@@ -1,3 +1,10 @@
+## [0.0.11](https://github.com/t4y3/libraries-boilerplate/compare/v0.0.10...v0.0.11) (2021-04-01)
+
+
+### Bug Fixes
+
+* remove package ([e285fa7](https://github.com/t4y3/libraries-boilerplate/commit/e285fa743d1e7186e2c52be1083da6513cc686d4))
+
 ## [0.0.10](https://github.com/t4y3/libraries-boilerplate/compare/v0.0.9...v0.0.10) (2021-04-01)
 
 
