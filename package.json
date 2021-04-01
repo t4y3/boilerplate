@@ -8,7 +8,7 @@
   "types": "lib/index.d.ts",
   "scripts": {
     "hooks": "npx simple-git-hooks",
-    "build": "rm -rf lib && rollup -c && npm run types",
+    "prepublishOnly": "rm -rf lib && rollup -c && npm run types",
     "watch": "rollup -c -w",
     "types": "tsc -d --emitDeclarationOnly",
     "fix": "prettier --write",
